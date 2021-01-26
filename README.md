@@ -1,4 +1,4 @@
-__toc__
+[TOC]
 
 # ghidra-notes
 
