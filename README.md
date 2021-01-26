@@ -6,7 +6,7 @@ Notes to myself about using/extending Ghidra
 
 ## Extract Source Code
 
-To extract the Ghidra source code into a single directory, run the following script:
+To extract the Ghidra source code into a single directory, run the following script inside the Ghidra directory:
 
 ### Linux
 ```
