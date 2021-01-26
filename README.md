@@ -1,6 +1,6 @@
 # ghidra-notes
 
-Notes to myself about using/extending Ghidra
+Notes for noobs about using/extending Ghidra
 
 ## Extract Source Code
 
