@@ -1,5 +1,3 @@
-[__TOC__]
-
 # ghidra-notes
 
 Notes to myself about using/extending Ghidra
